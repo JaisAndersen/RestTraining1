@@ -1,4 +1,4 @@
-const baseUri = "http://jsonplaceholder.typicode.com/posts"
+const baseUri = "https://jsonplaceholder.typicode.com/posts"
 
 Vue.createApp({
     data() {
